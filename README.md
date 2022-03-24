@@ -1,5 +1,24 @@
-1. This is a fairly simple project made purely on java
-2. Features are given inside the main class in the calcular.java file
-3. A very simple description would be 
-"This is a project which takes sum of product form of boolean algebra and gives the output in the form of the truth table of the final result as the output, targeted towards solving complex boolean algebra equations with ease".
+### Boolean Algebra Calculator
 
+### Tools
+1. Java 11
+2. IntelliJ Idea
+
+#### Requisites
+1. Must have Java (duh)
+
+### procedure to run
+
+```
+git clone https://github.com/Shrivastava-Aditya/Boolean-Algebra-Calculator
+$cd src
+$javac Calculator.java
+$java Calculator
+
+```
+### Important information
+>- Must enter the equation in SOP form.
+>- The variables included must be adjacent alphabets (to be precise adjacent ASCII characters).
+>- Complex equation is much welcome, but variable more than 5 in some cases will cause memory overflow.
+
+#### Forks and contributions are highly appreciated. 🤍

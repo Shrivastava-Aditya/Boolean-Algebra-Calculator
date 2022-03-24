@@ -1,5 +1,6 @@
 ### Boolean Algebra Calculator
-
+Project made to solve a boolean algebra by parsing the string and solve the truth table.
+Highly intuitive code, potential application in simulation project.
 ### Tools
 1. Java 11
 2. IntelliJ Idea
